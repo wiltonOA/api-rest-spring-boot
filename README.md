@@ -7,5 +7,14 @@ Nesse exemplo, foi criado uma API Rest com:
 - lombok                                                                                                                               
 - jpa                                                                                   
 ## Requisitos                                     
-- Java >= 8
+- Java >= 8                                                           
+## URL do projeto no Heroku                                                       
+- https://pessoa-springboot.herokuapp.com/api/v1/pessoa                            
+### JSON modelo para cadastro de pesso                                                                                                         
+{                                                                                                                              
+    "nome": "Filomena",                                                                                                                  
+    "idade": 30,                                                                                                                             
+    "sexo": "F"                                                                                                                                 
+}                                                                                                                                                    
+
   
