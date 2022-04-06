@@ -1,0 +1,5 @@
+com\visao\exemplocrud\ExemplocrudApplication.class
+com\visao\exemplocrud\resources\HomeResources.class
+com\visao\exemplocrud\resources\PessaoResource.class
+com\visao\exemplocrud\models\Pessoa.class
+com\visao\exemplocrud\repositories\PessoaRepository.class
