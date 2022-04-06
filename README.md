@@ -4,7 +4,6 @@
 Nesse exemplo, foi criado uma API Rest com: 
 
   Spring Boot
-  
   h2database
   
   lombok
