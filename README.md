@@ -17,7 +17,12 @@ Nesse exemplo, foi criado uma API Rest com:
     "sexo": "F"                                                                                                                                 
 }                                                                                                                                             
 ### Configuração do Postman para cadastro                                                                                                
-![postman1](https://github.com/wiltonOA/api-rest-spring-boot/blob/master/Screenshot_21.png)
+![postman1](https://github.com/wiltonOA/api-rest-spring-boot/blob/master/Screenshot_21.png)                                                    
+### Fazendo um GET pra listar                                                                                                         
+![postman1](https://github.com/wiltonOA/api-rest-spring-boot/blob/master/Screenshot_23.png)        
+
+
+
 
 
   
