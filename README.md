@@ -15,6 +15,9 @@ Nesse exemplo, foi criado uma API Rest com:
     "nome": "Filomena",                                                                                                                  
     "idade": 30,                                                                                                                             
     "sexo": "F"                                                                                                                                 
-}                                                                                                                                                    
+}                                                                                                                                             
+### Configuração do Postman para cadastro                                                                                                
+![postman1](
+
 
   
